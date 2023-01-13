@@ -1,0 +1,15 @@
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.AssemblyReference.cache
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/Users/celestemccall/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
